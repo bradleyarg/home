@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Bradley M. Argauer"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/image/Brad_square.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Welcome to my website. It is under construction."
   location         : "Melbourne, FL"
   email            : "Contact@BradleyArgauer.com"
